@@ -29,6 +29,8 @@ Persistence of Vision is an optical illusion where multiple images blend into a 
 
 - Arduino IDE  
 - File: `code.ino` (contains the main sketch for LED timing and character display)
+- Serial Bluetooth Termial
+- Install the Above app to connect with HC-05
 
 ---
 
