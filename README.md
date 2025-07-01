@@ -63,3 +63,9 @@ https://github.com/harinisubbiah/Persistence-of-Vision-/blob/c31e902a48ca4845ba1
 
 Created by 
 Harini S  
+
+# Contributors
+
+- Harshini S[ https://github.com/harshini-subbiah]
+- Kiran S []
+- Krithikesh[https://github.com/krithikeshI]
