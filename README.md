@@ -30,7 +30,6 @@ Persistence of Vision is an optical illusion where multiple images blend into a 
 - Arduino IDE  
 - File: `code.ino` (contains the main sketch for LED timing and character display)
 - Serial Bluetooth Termial
-- Install the Above app to connect with HC-05
 
 ---
 
@@ -48,8 +47,10 @@ Persistence of Vision is an optical illusion where multiple images blend into a 
 1. Wire the 7 LEDs to digital pins 2–8 of the Arduino using 220Ω resistors.
 2. Mount the Arduino - LED Setup , batteries, IR Sensor, Bluetooth on a rotating circular hylem Sheet and make it balanced.
 3. Upload the code from  `code.ino` file to your Arduino using the Arduino IDE.
-4. Power the motor to start rotation.
-5. Adjust delay timing in the code to improve clarity and stability of the display.
+4. Power the Ariduno and the Sensor and HC-05
+5. Using the Serial Bluetooth Terminal App Send the Word to be Displayed.
+6. Power the motor to start rotation.
+7. Adjust delay timing in the code to improve clarity and stability of the display.
 
 ---
 
