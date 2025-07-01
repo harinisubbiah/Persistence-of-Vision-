@@ -51,9 +51,11 @@ Persistence of Vision is an optical illusion where multiple images blend into a 
 
 ---
 
-## 📸 Demo (Optional)
+## 📸 Circuit Diagram 
 
-_Add a photo or GIF here of your POV display in action if available!_
+Refer : cicuit.jpeg 
+
+https://github.com/harinisubbiah/Persistence-of-Vision-/blob/c31e902a48ca4845ba16e25535b9d797497a811a/circuit.jpeg 
 
 ---
 
