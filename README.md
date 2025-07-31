@@ -72,3 +72,7 @@ Harini S
 - Harshini S[ https://github.com/harshini-subbiah]
 - Kiran S []
 - Krithikesh[https://github.com/krithikeshI]
+
+# Mentors
+- Mr.Suresh Sir 
+- Mr.VijayaKumar Sir
